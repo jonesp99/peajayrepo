@@ -1,3 +1,2 @@
 This is the third file for week 3 project.  
-Here is my second edit to this file for the day.
-And here's my third line of edits.
+
