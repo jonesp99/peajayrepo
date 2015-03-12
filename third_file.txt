@@ -1,1 +1,2 @@
-This is the thrid file for week 3 project.  Here is my second edit to this file.
+This is the thrid file for week 3 project.  
+Here is my second edit to this file for the day.
